@@ -1,6 +1,7 @@
 # LariatCaseStudy
 
 **Capstone 1 Model**
+
 Goal: the purpose of this model is to optimize metrics and inventory to maximize profit
 
 Strategy 1: Boost branch performance by improving on key performance indicators
@@ -14,4 +15,5 @@ Strategy 2: Remove unprofitable cars
 
 
 **Capstone 1 Presentation**
+
 Presentation wasn't recorded, but there are notes at the bottom to help you follow along
