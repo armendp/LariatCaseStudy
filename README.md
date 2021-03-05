@@ -14,6 +14,7 @@ Strategy 2: Remove unprofitable cars
     2B: Remove all unprofitable cars with a turnover rate of less than 7.1
 
 
+
 **Capstone 1 Presentation**
 
 Presentation wasn't recorded, but there are notes at the bottom to help you follow along
