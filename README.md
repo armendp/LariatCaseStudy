@@ -2,7 +2,7 @@
 
 ## Capstone 1 Model
 
-### Goal: the purpose of this model is to optimize metrics and inventory to maximize profit
+### Goal: Optimize metrics and inventory to maximize profit
 
 #### Strategy 1: Boost branch performance by improving on key performance indicators
 
